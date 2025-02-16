@@ -17,9 +17,3 @@ This is a simple console-based multiple-choice quiz game written in C.
    ```sh
    ./quiz_game
    ```
-
-## Contributing
-Feel free to modify the questions and improve the game!
-
-## License
-This project is open-source.
